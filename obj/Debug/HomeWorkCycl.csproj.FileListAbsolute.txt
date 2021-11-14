@@ -1,0 +1,7 @@
+D:\KursSakutin\git\HomeWorkCykl\bin\Debug\HomeWorkCycl.exe.config
+D:\KursSakutin\git\HomeWorkCykl\bin\Debug\HomeWorkCycl.exe
+D:\KursSakutin\git\HomeWorkCykl\bin\Debug\HomeWorkCycl.pdb
+D:\KursSakutin\git\HomeWorkCykl\obj\Debug\HomeWorkCycl.csproj.AssemblyReference.cache
+D:\KursSakutin\git\HomeWorkCykl\obj\Debug\HomeWorkCycl.csproj.CoreCompileInputs.cache
+D:\KursSakutin\git\HomeWorkCykl\obj\Debug\HomeWorkCycl.exe
+D:\KursSakutin\git\HomeWorkCykl\obj\Debug\HomeWorkCycl.pdb

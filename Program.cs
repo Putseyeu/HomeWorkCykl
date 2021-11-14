@@ -10,10 +10,12 @@ namespace HomeWorkCycl
     {
         static void Main(string[] args)
         {
-            // используем цикл for, оптимален при условии что есть чётки границы цикла.  
-            for( int i = 7; i < 100; i += 7)
+            int numer;
+            int numerMax = 100;
+            int numerStep = 7;
+            for(numer = 7; numer < numerMax; numer += numerStep)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(numer);
             }
         }
     }
